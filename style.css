@@ -1,0 +1,128 @@
+@media (min-width: 390px) and (max-width: 767px) {
+html{
+    background-color: #A077DF;
+}
+
+h1{
+    text-align: center;
+    padding-top: 30px;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Playball', cursive;
+}
+.una img{
+    height: 500px;
+    display: inline-block;
+    float:left;
+    margin-right: 20px;
+}
+.una p{
+    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Playball', cursive;
+    font-family: 'Space Grotesk', sans-serif;
+    
+    word-spacing: 10px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+.bracelet{
+    margin-top: 200px;
+    padding-top: 200px;
+}
+.bracelet img{
+    height: 500px;
+    display: inline-block;
+    float: right;
+    margin-left: 20px;
+
+}
+.bracelet p{
+    
+    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Playball', cursive;
+    font-family: 'Space Grotesk', sans-serif;
+    
+    word-spacing: 10px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+
+
+.cute{
+    margin-top: 200px;
+    padding-top: 200px;
+}
+.cute img{
+    height: 500px;
+    display: inline-block;
+    float: left;
+    margin-right: 20px;
+}
+.cute p{
+    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Playball', cursive;
+    font-family: 'Space Grotesk', sans-serif;
+    
+    word-spacing: 10px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.sexy{
+    margin-top: 100px;
+    padding-top: 100px;
+}
+.sexy img{
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.sexy p{
+    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Playball', cursive;
+    font-family: 'Space Grotesk', sans-serif;
+    
+    word-spacing: 10px;
+    text-align: justify;
+    text-justify: inter-word;
+    font-size: 20px;
+}
+.videoo{
+    margin-top: 100px;
+    padding-top: 100px;
+}
+.videoo video{
+    width: 100%;
+    padding-bottom: 10px;
+    
+}
+.videoo p {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Playball', cursive;
+    font-family: 'Space Grotesk', sans-serif;
+    
+    word-spacing: 10px;
+    text-align: justify;
+    text-justify: inter-word;
+    font-size: 20px;
+}
+
+a img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2{
+    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Playball', cursive;
+    font-family: 'Space Grotesk', sans-serif;
+    
+    word-spacing: 10px;
+    text-align: justify;
+    text-justify: inter-word;
+    font-size: 25px;
+}
+
+}
